@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": "001",
+            "name": "product 1",
+            "star": 70,
+            "info": "product 1 info",
+            "info2": "product 1 info2",
+            "hash1": "20대 인기상품",
+            "hash2": "10대 인기상품",
+            "picture": "images/restmb_allidxmake.jpeg"
+        },
+        {
+            "id": "002",
+            "name": "product 2",
+            "star": 5,
+            "info": "product 2 info",
+            "info2": "product 2 info2",
+            "hash1": "20대 인기상품",
+            "hash2": "10대 인기상품",
+            "picture": "images/restmb_allidxmake.jpeg"
+        },
+        {
+            "id": "003",
+            "name": "product 3",
+            "star": 1,
+            "info": "product 3 info",
+            "info2": "product 3 info2",
+            "hash1": "20대 인기상품",
+            "hash2": "10대 인기상품",
+            "picture": "images/restmb_allidxmake.jpeg"
+        },
+        {
+            "id": "004",
+            "name": "product 4",
+            "star": 4,
+            "info": "product 4 info",
+            "info2": "product 4 info2",
+            "hash1": "20대 인기상품",
+            "hash2": "10대 인기상품",
+            "picture": "images/restmb_allidxmake.jpeg"
+        },
+        {
+            "id": "005",
+            "name": "product 5",
+            "star": 5,
+            "info": "product 5 info",
+            "info2": "product 5 info2",
+            "hash1": "20대 인기상품",
+            "hash2": "10대 인기상품",
+            "picture": "images/restmb_allidxmake.jpeg"
+        }
+    ]
+}

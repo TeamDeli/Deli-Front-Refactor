@@ -1,0 +1,31 @@
+{
+  "getProducts": [
+    {
+      "id": 1,
+      "price": 7700,
+      "image": "https://img1.daumcdn.net/thumb/C600x600.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20210714121121_0128cd48371440478801d00c2a7eba60.jpg",
+      "sex": 1,
+      "age": 1,
+      "title": "[식약처인증]스누피 KF-AD 비말차단용 마스크 대형/소형 50매",
+      "body": "숨쉬기 편한 마스크."
+    },
+    {
+      "id": 2,
+      "price": 5900,
+      "image": "https://img1.daumcdn.net/thumb/C600x600.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20200515150044_1dead5dc09584a9fb061ea0fc25de95b.jpg",
+      "sex": 0,
+      "age": 0,
+      "title": "떠먹는 아이스박스",
+      "body": "리덕스 미들웨어를 직접 만들어보면 이해하기 쉽죠."
+    },
+    {
+      "id": 3,
+      "price": 29900,
+      "image": "https://img1.daumcdn.net/thumb/C600x600.q82/?fname=https%3A%2F%2Fst.kakaocdn.net%2Fproduct%2Fgift%2Fproduct%2F20200908095855_2a5832df07e141cbaec0572ed1fedfbe.jpg",
+      "sex": 0,
+      "age": 2,
+      "title": "초이스 등급 갈비살 400g + 초이스 등급 부채살 400g 외 8종",
+      "body": "나중엔 redux-saga를 사용해서 비동기 작업을 처리하는 방법도 배워볼 거예요."
+    }
+  ]
+}
