@@ -1,19 +1,18 @@
 import React from "react";
 import Styled from "styled-components";
 const FooterWrap = Styled.div`
+    display: block;
     text-align: center;
-    padding: 3px;
+    padding: 30px;
     background-color: Ivory;
-    color: DarkGray;
+    font-size: 18px;
+    height: 140px;
 `;
 
 const Footer = () => {
   return (
     <FooterWrap>
-      <p>
-        Author: Hege Refsnes
-        <a href="mailto:hege@example.com">hege@example.com</a>
-      </p>
+      <p>© 2021 SOOKFLIX 📽</p>
     </FooterWrap>
   );
 };
