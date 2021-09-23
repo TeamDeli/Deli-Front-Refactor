@@ -5,6 +5,7 @@ import Calendar from "./pages/Calendar";
 import NavBar from "./components/NavBar/NavBar";
 import LandingPage from "./pages/LandingPage/LandingPage";
 import ProductsByFunction from "./pages/ProductsByFunction";
+import Footer from "./components/Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import "antd/dist/antd.css";
@@ -33,6 +34,7 @@ function App() {
         <Route path="/addFriends" exact component={AddFriends}></Route>
         <Route exact path="/product/:id" component={ProductsByFunction}></Route>
       </Switch>
+      <Footer></Footer>
     </Router>
   );
 }
